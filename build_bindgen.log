@@ -1,0 +1,1020 @@
+       Fresh unicode-ident v1.0.12
+       Fresh autocfg v1.3.0
+       Fresh shlex v1.3.0
+       Fresh jobserver v0.1.31
+       Fresh proc-macro2 v1.0.93
+       Fresh cc v1.2.13
+       Fresh cfg-if v1.0.0
+       Fresh quote v1.0.36
+       Fresh windows_x86_64_msvc v0.52.6
+       Fresh version_check v0.9.4
+       Fresh syn v2.0.98
+       Fresh windows-targets v0.52.6
+       Fresh serde_derive v1.0.228
+       Fresh windows-sys v0.52.0
+       Fresh libc v0.2.171
+       Fresh pkg-config v0.3.30
+       Fresh serde_core v1.0.228
+       Fresh serde v1.0.228
+       Fresh tokio-macros v2.5.0
+       Fresh memchr v2.7.4
+       Fresh once_cell v1.19.0
+       Fresh winapi-util v0.1.8
+       Fresh futures-macro v0.3.31
+       Fresh winapi v0.3.9
+       Fresh log v0.4.22
+       Fresh thiserror-impl v1.0.61
+       Fresh minimal-lexical v0.2.1
+       Fresh thiserror-impl v2.0.17
+       Fresh nom v7.1.3
+       Fresh simd-adler32 v0.3.7
+       Fresh clang-sys v1.8.1
+       Fresh cexpr v0.6.0
+       Fresh bytes v1.10.1
+       Fresh adler2 v2.0.1
+       Fresh atty v0.2.14
+       Fresh crc32fast v1.4.2
+       Fresh miniz_oxide v0.8.9
+       Fresh autocfg v0.1.8
+       Fresh unicode-width v0.1.13
+       Fresh rand_core v0.4.2
+       Fresh textwrap v0.11.0
+       Fresh flate2 v1.1.9
+       Fresh termcolor v1.4.1
+       Fresh strsim v0.8.0
+       Fresh lazy_static v1.5.0
+       Fresh vec_map v0.8.2
+       Fresh env_logger v0.9.3
+       Fresh clap v2.34.0
+       Fresh peeking_take_while v0.1.2
+       Fresh lazycell v1.3.0
+       Fresh byteorder v1.5.0
+       Fresh rustc-hash v1.1.0
+       Fresh same-file v1.0.6
+       Fresh bindgen v0.59.2
+       Fresh unicode-xid v0.1.0
+       Fresh bytemuck v1.23.2
+       Fresh proc-macro2 v0.4.30
+       Fresh walkdir v2.5.0
+       Fresh rand_core v0.3.1
+       Fresh either v1.13.0
+       Fresh bitflags v1.3.2
+       Fresh quote v0.6.13
+       Fresh adler v1.0.2
+       Fresh fastrand v2.1.0
+       Fresh num-traits v0.2.19
+       Fresh tempfile v3.10.1
+       Fresh miniz_oxide v0.7.4
+       Fresh syn v0.15.44
+       Fresh thiserror v1.0.61
+       Fresh dlopen_derive v0.1.4
+       Fresh protobuf-parse v3.7.2
+       Fresh fdeflate v0.3.4
+       Fresh aho-corasick v1.1.3
+       Fresh pin-project-internal v1.1.5
+       Fresh getrandom v0.2.15
+       Fresh siphasher v0.2.3
+       Fresh regex-syntax v0.8.5
+       Fresh anyhow v1.0.98
+       Fresh phf_shared v0.7.24
+       Fresh png v0.17.13
+       Fresh protobuf-codegen v3.7.2
+       Fresh rand_pcg v0.1.2
+       Fresh regex-automata v0.4.9
+       Fresh rand_chacha v0.1.1
+       Fresh rand_hc v0.1.0
+       Fresh rand_isaac v0.1.1
+       Fresh rand_xorshift v0.1.1
+       Fresh rand_jitter v0.1.4
+       Fresh rand_os v0.1.3
+       Fresh rustls-pki-types v1.11.0
+       Fresh pin-project-lite v0.2.14
+       Fresh typenum v1.17.0
+       Fresh crossbeam-utils v0.8.20
+       Fresh rand v0.6.5
+       Fresh regex v1.11.1
+       Fresh smallvec v1.15.1
+       Fresh hashbrown v0.14.5
+       Fresh scopeguard v1.2.0
+       Fresh lock_api v0.4.12
+       Fresh parking_lot_core v0.9.10
+       Fresh windows_x86_64_msvc v0.48.5
+       Fresh generic-array v0.14.7
+       Fresh phf_generator v0.7.24
+       Fresh nasm-rs v0.3.0
+       Fresh dasp_sample v0.11.0
+       Fresh untrusted v0.9.0
+       Fresh futures-sink v0.3.31
+       Fresh dunce v1.0.5
+       Fresh futures-core v0.3.31
+       Fresh ring v0.17.14
+       Fresh slab v0.4.9
+       Fresh phf_codegen v0.7.24
+       Fresh futures-channel v0.3.31
+       Fresh getrandom v0.3.2
+       Fresh windows-targets v0.48.5
+       Fresh parking_lot v0.12.3
+       Fresh syn v1.0.109
+       Fresh windows_x86_64_msvc v0.42.2
+       Fresh bitflags v2.9.1
+       Fresh socket2 v0.5.10
+       Fresh mio v1.0.3
+       Fresh async-recursion v1.1.1
+       Fresh ppv-lite86 v0.2.17
+       Fresh utf8parse v0.2.2
+       Fresh futures-task v0.3.31
+       Fresh equivalent v1.0.1
+       Fresh futures-io v0.3.31
+       Fresh anstyle v1.0.13
+       Fresh pin-utils v0.1.0
+       Fresh tokio v1.44.2
+       Fresh indexmap v2.2.6
+       Fresh anstyle-parse v0.2.4
+       Fresh futures-util v0.3.31
+       Fresh anstyle-wincon v3.0.3
+       Fresh rustls-webpki v0.103.3
+       Fresh block-buffer v0.10.4
+       Fresh crypto-common v0.1.6
+warning: mozjpeg-sys@2.2.2: NASM not installed. Mozjpeg's SIMD won't be enabled: program not found
+       Fresh num-traits v0.1.43
+       Fresh tracing-core v0.1.34
+       Fresh anstyle-query v1.1.0
+       Fresh schannel v0.1.23
+       Fresh is_terminal_polyfill v1.70.0
+       Fresh zeroize v1.8.1
+       Fresh dtoa v0.4.8
+       Fresh subtle v2.6.1
+       Fresh colorchoice v1.0.1
+       Fresh itoa v0.3.4
+       Fresh arrayvec v0.7.6
+       Fresh serde v0.9.15
+       Fresh serde_json v0.9.10
+       Fresh anstream v0.6.14
+       Fresh rustls v0.23.28
+       Fresh digest v0.10.7
+       Fresh mozjpeg-sys v2.2.2
+       Fresh prettyplease v0.2.20
+       Fresh rand_core v0.9.3
+       Fresh dasp_frame v0.11.0
+       Fresh crossbeam-epoch v0.9.18
+       Fresh image v0.25.1
+       Fresh phf v0.7.24
+       Fresh protobuf-support v3.7.2
+       Fresh http-body v1.0.1
+       Fresh rgb v0.8.50
+       Fresh env_filter v0.1.3
+       Fresh nanorand v0.7.0
+       Fresh spin v0.9.8
+       Fresh itertools v0.12.1
+       Fresh glob v0.3.1
+       Fresh itoa v1.0.11
+       Fresh tinyvec_macros v0.1.1
+       Fresh rustc-hash v2.1.1
+       Fresh cpufeatures v0.2.12
+       Fresh humantime v2.1.0
+       Fresh flume v0.11.0
+       Fresh env_logger v0.11.6
+       Fresh bindgen v0.71.1
+       Fresh tinyvec v1.6.1
+       Fresh mozjpeg v0.10.11
+       Fresh native-tls v0.2.12
+       Fresh protobuf v3.7.2
+       Fresh thiserror v2.0.17
+       Fresh target_build_utils v0.3.1
+       Fresh crossbeam-deque v0.8.5
+       Fresh rand_chacha v0.9.0
+       Fresh dirs-sys-next v0.1.2
+       Fresh libloading v0.8.4
+       Fresh tracing-attributes v0.1.29
+       Fresh tower-service v0.3.3
+       Fresh fnv v1.0.7
+       Fresh try-lock v0.2.5
+       Fresh tracing v0.1.41
+       Fresh rayon-core v1.12.1
+       Fresh httparse v1.10.1
+       Fresh http v1.3.1
+warning: direct cast of function item into an integer
+  --> libs\hbb_common\src\platform\mod.rs:80:62
+   |
+80 |         libc::signal(libc::SIGSEGV, breakdown_signal_handler as _);
+   |                                                              ^^^^
+   |
+   = note: `#[warn(function_casts_as_integer)]` on by default
+help: first cast to a pointer `as *const ()`
+   |
+80 |         libc::signal(libc::SIGSEGV, breakdown_signal_handler as *const () as _);
+   |                                                              ++++++++++++
+
+       Fresh want v0.3.1
+       Fresh rand v0.9.2
+       Fresh unicode-normalization v0.1.23
+       Fresh nokhwa-core v0.1.5 (https://github.com/rustdesk-org/nokhwa.git?branch=fix_from_raw_parts#c2f74662)
+warning: `hbb_common` (lib) generated 1 warning (run `cargo fix --lib -p hbb_common` to apply 1 suggestion)
+       Fresh sha1 v0.10.6
+       Fresh zstd-sys v2.0.11+zstd.1.5.6
+       Fresh rustls-native-certs v0.8.1
+       Fresh trackable_derive v1.0.0
+       Fresh windows-sys v0.48.0
+       Fresh windows-core v0.51.1
+       Fresh webpki-roots v0.26.9
+       Fresh rand_core v0.6.4
+       Fresh hmac v0.12.1
+       Fresh windows-strings v0.4.0
+       Fresh windows-result v0.3.2
+       Fresh toml v0.5.11
+       Fresh serde_spanned v0.6.6
+       Fresh toml_datetime v0.6.3
+       Fresh windows-implement v0.60.0
+       Fresh windows-interface v0.59.1
+       Fresh data-encoding v2.9.0
+       Fresh dasp_ring_buffer v0.11.0
+       Fresh signature v1.6.4
+       Fresh unicode-bidi v0.3.15
+       Fresh windows-link v0.1.1
+       Fresh weezl v0.1.8
+       Fresh percent-encoding v2.3.1
+       Fresh winnow v0.5.40
+       Fresh utf-8 v0.7.6
+       Fresh atomic-waker v1.1.2
+       Fresh ed25519 v1.5.3
+       Fresh hyper v1.7.0
+       Fresh toml_edit v0.19.15
+       Fresh form_urlencoded v1.2.1
+       Fresh tungstenite v0.26.2
+       Fresh chrono v0.4.41
+       Fresh windows-core v0.61.0
+       Fresh idna v0.5.0
+       Fresh ntapi v0.4.1
+       Fresh rand_chacha v0.3.1
+       Fresh libsodium-sys v0.2.7
+       Fresh trackable v1.3.0
+       Fresh zstd-safe v7.1.0
+       Fresh nu-ansi-term v0.49.0
+       Fresh windows v0.51.1
+       Fresh windows_x86_64_msvc v0.53.1
+       Fresh libm v0.2.8
+       Fresh rayon v1.10.0
+       Fresh directories-next v2.0.0
+       Fresh tokio-native-tls v0.3.1
+       Fresh tokio-rustls v0.26.0
+       Fresh futures-executor v0.3.30
+       Fresh tokio-util v0.7.15
+       Fresh windows-targets v0.42.2
+       Fresh crossbeam-queue v0.3.11
+       Fresh crossbeam-channel v0.5.13
+       Fresh jpeg-decoder v0.3.1
+       Fresh pin-project v1.1.5
+       Fresh zune-inflate v0.2.54
+       Fresh winreg v0.11.0
+       Fresh is-terminal v0.4.16
+       Fresh half v2.4.1
+       Fresh bit_field v0.10.2
+       Fresh color_quant v1.1.0
+       Fresh ipnet v2.11.0
+       Fresh ryu v1.0.18
+       Fresh unicode-segmentation v1.11.0
+       Fresh error-code v3.2.0
+       Fresh rustc-demangle v0.1.24
+       Fresh lebe v0.5.2
+       Fresh serde_json v1.0.118
+       Fresh gif v0.13.1
+       Fresh exr v1.72.0
+       Fresh backtrace v0.3.73
+       Fresh hyper-util v0.1.17
+       Fresh flexi_logger v0.27.4
+       Fresh machine-uid v0.3.0 (https://github.com/rustdesk-org/machine-uid#381ff579)
+       Fresh tokio-socks v0.5.2-3 (https://github.com/rustdesk-org/tokio-socks#bdb9aa3d)
+       Fresh tiff v0.9.1
+       Fresh windows-targets v0.53.5
+       Fresh tokio-tungstenite v0.26.2
+       Fresh futures v0.3.30
+       Fresh confy v0.4.0-2 (https://github.com/rustdesk-org/confy#83db9ec1)
+       Fresh sysinfo v0.29.10 (https://github.com/rustdesk-org/sysinfo?branch=rlim_max#90b1705d)
+       Fresh trackable v0.2.24
+       Fresh zstd v0.13.1
+       Fresh rand v0.8.5
+       Fresh windows_x86_64_msvc v0.34.0
+       Fresh sodiumoxide v0.2.7
+       Fresh url v2.5.2
+       Fresh toml v0.7.8
+       Fresh rustversion v1.0.17
+       Fresh dasp_rms v0.11.0
+       Fresh dirs-next v2.0.0
+       Fresh sha2 v0.10.8
+       Fresh dasp_peak v0.11.0
+       Fresh rustls-platform-verifier v0.6.2
+       Fresh windows v0.43.0
+       Fresh uuid v1.16.0
+       Fresh webpki-roots v1.0.4
+       Fresh dlopen v0.1.8
+       Fresh default_net v0.1.0 (https://github.com/rustdesk-org/default_net#78f8f70c)
+       Fresh qoi v0.4.1
+       Fresh inout v0.1.3
+       Fresh sync_wrapper v1.0.2
+       Fresh serial-core v0.4.0
+       Fresh errno v0.3.14
+       Fresh mac_address v1.1.7
+       Fresh socket2 v0.3.19
+       Fresh filetime v0.2.23
+       Fresh windows-result v0.1.2
+       Fresh enum-map-derive v0.17.0
+       Fresh widestring v1.1.0
+       Fresh powerfmt v0.2.0
+       Fresh heck v0.4.1
+       Fresh base64 v0.22.1
+       Fresh build-target v0.4.0
+       Fresh compression-core v0.4.29
+       Fresh overload v0.1.1
+       Fresh whoami v1.6.0
+       Fresh crc-catalog v2.4.0
+       Fresh base64ct v1.6.0
+       Fresh num_cpus v1.16.0
+       Fresh cfg_aliases v0.2.1
+       Fresh tower-layer v0.3.3
+       Fresh nu-ansi-term v0.46.0
+       Fresh tower v0.5.2
+       Fresh crc v3.3.0
+       Fresh password-hash v0.4.2
+       Fresh compression-codecs v0.4.31
+       Fresh strum_macros v0.24.3
+       Fresh hbb_common v0.1.0 (C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\hbb_common)
+       Fresh deranged v0.3.11
+       Fresh rustix v0.38.34
+       Fresh enum-map v2.7.3
+       Fresh windows-core v0.54.0
+warning: `hbb_common` (lib) generated 1 warning (1 duplicate)
+       Fresh serial-windows v0.4.0
+       Fresh image v0.24.9
+       Fresh cipher v0.4.4
+       Fresh dasp_envelope v0.11.0
+       Fresh nokhwa-bindings-windows v0.4.2 (https://github.com/rustdesk-org/nokhwa.git?branch=fix_from_raw_parts#c2f74662)
+       Fresh windows v0.34.0
+       Fresh bytecodec v0.4.15
+       Fresh windows-sys v0.60.2
+       Fresh memoffset v0.6.5
+       Fresh webm-sys v1.0.4 (https://github.com/rustdesk-org/rust-webm#d2c4d3ac)
+       Fresh bzip2-sys v0.1.11+1.0.8
+       Fresh windows_x86_64_msvc v0.32.0
+       Fresh zstd-safe v5.0.2+zstd.1.5.2
+       Fresh nokhwa-bindings-macos v0.2.2 (https://github.com/rustdesk-org/nokhwa.git?branch=fix_from_raw_parts#c2f74662)
+       Fresh paste v1.0.15
+       Fresh keyboard-types v0.7.0
+       Fresh core_maths v0.1.1
+       Fresh dasp_interpolate v0.11.0
+       Fresh winres v0.1.12
+       Fresh nokhwa-bindings-linux v0.1.1 (https://github.com/rustdesk-org/nokhwa.git?branch=fix_from_raw_parts#c2f74662)
+       Fresh http-body-util v0.1.3
+       Fresh tracing-log v0.2.0
+       Fresh dasp_window v0.11.1
+       Fresh os-version v0.2.0
+       Fresh sharded-slab v0.1.7
+       Fresh num-integer v0.1.46
+       Fresh thread_local v1.1.8
+       Fresh home v0.5.9
+       Fresh windows-core v0.52.0
+       Fresh windows-interface v0.52.0
+       Fresh zerocopy-derive v0.7.34
+       Fresh windows-implement v0.52.0
+       Fresh dpi v0.1.1
+       Fresh arrayref v0.3.9
+       Fresh utf8-width v0.1.7
+       Fresh iri-string v0.7.8
+       Fresh strict-num v0.1.1
+       Fresh num-conv v0.1.0
+       Fresh raw-window-handle v0.6.2
+       Fresh atomic v0.5.3
+       Fresh strum v0.24.1
+       Fresh clap_lex v0.7.6
+       Fresh md5 v0.7.0
+       Fresh strsim v0.11.1
+       Fresh time-core v0.1.2
+       Fresh allo-isolate v0.1.25
+       Fresh html-escape v0.2.13
+       Fresh tiny-skia-path v0.11.4
+       Fresh clap_builder v4.5.53
+       Fresh time v0.3.36
+       Fresh stun_codec v0.3.5
+       Fresh tower-http v0.6.6
+       Fresh rdev v0.5.0-2 (https://github.com/rustdesk-org/rdev#f9b60b1d)
+       Fresh windows v0.52.0
+       Fresh zerocopy v0.7.34
+       Fresh muda v0.17.1
+       Fresh tracing-subscriber v0.3.19
+       Fresh dasp_signal v0.11.0
+       Fresh which v4.4.2
+       Fresh num-bigint v0.4.6
+       Fresh ttf-parser v0.25.1
+       Fresh hyper-tls v0.6.0
+       Fresh nokhwa v0.10.7 (https://github.com/rustdesk-org/nokhwa.git?branch=fix_from_raw_parts#c2f74662)
+       Fresh windows v0.32.0
+       Fresh nix v0.25.1
+       Fresh webm v1.1.0 (https://github.com/rustdesk-org/rust-webm#d2c4d3ac)
+       Fresh zstd v0.11.2+zstd.1.5.2
+       Fresh bzip2 v0.4.4
+       Fresh serial v0.4.0
+       Fresh win-sys v0.3.1
+       Fresh aes v0.8.4
+       Fresh windows v0.54.0
+       Fresh dart-sys v4.1.5
+       Fresh slotmap v1.0.7
+       Fresh winreg v0.10.1
+       Fresh tfc v0.7.0 (https://github.com/rustdesk-org/The-Fat-Controller?branch=history%2Frebase_upstream_20240722#78bb80a8)
+       Fresh pbkdf2 v0.11.0
+       Fresh async-compression v0.4.32
+       Fresh threadpool v1.8.1
+       Fresh hyper-rustls v0.27.7
+       Fresh clipboard-win v5.4.0
+       Fresh windows-win v3.0.0
+       Fresh windows v0.44.0
+       Fresh windows-sys v0.45.0
+       Fresh windows-numerics v0.2.0
+       Fresh windows-future v0.2.0
+       Fresh windows-collections v0.2.0
+       Fresh dasp_slice v0.11.0
+       Fresh serde_urlencoded v0.7.1
+       Fresh dashmap v6.1.0
+       Fresh rtoolbox v0.0.2
+       Fresh filedescriptor v0.8.2 (https://github.com/rustdesk-org/wezterm?branch=rustdesk%2Fpty_based_0.8.1#80174f80)
+       Fresh windows-strings v0.3.1
+       Fresh shared_library v0.1.9
+       Fresh quick-xml v0.30.0
+       Fresh windows-version v0.1.1
+       Fresh auto_impl v1.3.0
+       Fresh instant v0.1.13
+       Fresh urlencoding v2.1.3
+       Fresh downcast-rs v1.2.1
+       Fresh constant_time_eq v0.2.6
+       Fresh memmap2 v0.9.8
+       Fresh memalloc v0.1.0
+       Fresh constant_time_eq v0.1.5
+       Fresh flutter_rust_bridge_macros v1.82.6
+       Fresh base32 v0.4.0
+       Fresh qrcodegen v1.8.0
+       Fresh debug-helper v0.3.13
+       Fresh shell-words v1.1.0
+       Fresh fontdb v0.23.0
+       Fresh default-net v0.14.1
+       Fresh cidr-utils v0.5.11
+       Fresh portable-pty v0.8.1 (https://github.com/rustdesk-org/wezterm?branch=rustdesk%2Fpty_based_0.8.1#80174f80)
+       Fresh qrcode-generator v4.1.9
+       Fresh zip v0.6.6
+       Fresh totp-rs v5.5.1
+       Fresh flutter_rust_bridge v1.80.1
+       Fresh tao v0.25.0 (https://github.com/rustdesk-org/tao?branch=dev#288c219c)
+       Fresh kcp-sys v0.1.0 (https://github.com/rustdesk-org/kcp-sys#32a6c09f)
+       Fresh tauri-winrt-notification v0.1.3
+       Fresh dasp v0.11.0
+       Fresh reqwest v0.12.24
+       Fresh rpassword v7.3.1
+       Fresh remote_printer v0.1.0 (C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\remote_printer)
+       Fresh system_shutdown v4.0.1
+       Fresh windows-service v0.6.0
+       Fresh arboard v3.4.0 (https://github.com/rustdesk-org/arboard#c7d5781f)
+       Fresh windows v0.61.1
+       Fresh clipboard-master v4.0.0-beta.6 (https://github.com/rustdesk-org/clipboard-master#ddc39f00)
+       Fresh softbuffer v0.4.5
+       Fresh enigo v0.0.14 (C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\enigo)
+       Fresh shared_memory v0.12.4
+       Fresh cpal v0.15.3 (https://github.com/rustdesk-org/cpal?branch=osx-screencapturekit#6b374bca)
+   Compiling scrap v0.5.0 (C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\scrap)
+       Fresh magnum-opus v0.4.0 (https://github.com/rustdesk-org/magnum-opus#5cd2bf98)
+       Fresh runas v1.2.0
+       Fresh tray-icon v0.21.3 (https://github.com/tauri-apps/tray-icon#0a5835b0)
+       Fresh stunclient v0.4.1
+       Fresh clap v4.5.53
+       Fresh clipboard v0.1.0 (C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\clipboard)
+       Fresh impersonate_system v0.1.0 (https://github.com/rustdesk-org/impersonate-system#2f429010)
+       Fresh tiny-skia v0.11.4
+       Fresh fon v0.6.0
+       Fresh virtual_display v0.1.0 (C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\virtual_display)
+       Fresh parity-tokio-ipc v0.7.3-6 (https://github.com/rustdesk-org/parity-tokio-ipc#d0ae39bf)
+       Fresh wallpaper v3.2.0 (https://github.com/rustdesk-org/wallpaper.rs#ce4a0cd3)
+       Fresh repng v0.2.2
+       Fresh sciter-rs v0.5.57 (https://github.com/rustdesk-org/rust-sciter?branch=dyn#5322f3a7)
+     Running `set CARGO=C:\Users\kayque.santos\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\cargo.exe&& set CARGO_CRATE_NAME=scrap&& set CARGO_MANIFEST_DIR=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\scrap&& set CARGO_MANIFEST_PATH=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\scrap\Cargo.toml&& set CARGO_PKG_AUTHORS="Ram <quadrupleslap@gmail.com>"&& set CARGO_PKG_DESCRIPTION="Screen capture made easy."&& set CARGO_PKG_HOMEPAGE=""&& set CARGO_PKG_LICENSE=MIT&& set CARGO_PKG_LICENSE_FILE=""&& set CARGO_PKG_NAME=scrap&& set CARGO_PKG_README=README.md&& set CARGO_PKG_REPOSITORY=https://github.com/quadrupleslap/scrap&& set CARGO_PKG_RUST_VERSION=""&& set CARGO_PKG_VERSION=0.5.0&& set CARGO_PKG_VERSION_MAJOR=0&& set CARGO_PKG_VERSION_MINOR=5&& set CARGO_PKG_VERSION_PATCH=0&& set CARGO_PKG_VERSION_PRE=""&& set OUT_DIR=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\scrap-e4421831ee04786c\out&& set PATH="C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps;C:\Program Files\LLVM\bin;C:/Users/kayque.santos/.gemini/antigravity-ide/bin;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\180\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\vcpkg;C:\Program Files\NASM;C:\Users\kayque.santos\.cargo\bin;C:\Users\kayque.santos\AppData\Local\Microsoft\WindowsApps;C:\Users\kayque.santos\AppData\Local\Programs\Antigravity IDE\bin;C:\tools\flutter\bin;C:\Users\kayque.santos\.dotnet\tools;C:\Users\kayque.santos\AppData\Local\Python\bin;C:\Users\kayque.santos\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin"&& C:\Users\kayque.santos\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\rustc.exe --crate-name scrap --edition=2018 libs\scrap\src\lib.rs --error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat --crate-type lib --emit=dep-info,metadata,link -C opt-level=3 -C panic=abort -C codegen-units=1 --cfg "feature=\"dbus\"" --cfg "feature=\"gstreamer\"" --cfg "feature=\"gstreamer-app\"" --cfg "feature=\"gstreamer-video\"" --cfg "feature=\"tracing\"" --cfg "feature=\"wayland\"" --cfg "feature=\"zbus\"" --check-cfg cfg(docsrs,test) --check-cfg "cfg(feature, values(\"dbus\", \"gstreamer\", \"gstreamer-app\", \"gstreamer-video\", \"hwcodec\", \"linux-pkg-config\", \"mediacodec\", \"ndk\", \"tracing\", \"vram\", \"wayland\", \"zbus\"))" -C metadata=53524871e7542273 -C extra-filename=-8ae690bb98ff54bb -C rpath --out-dir C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps -C strip=symbols -L dependency=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps --extern cfg_if=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libcfg_if-f8ce2c14c575dbc3.rmeta --extern hbb_common=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libhbb_common-6d462cbd90a55167.rmeta --extern lazy_static=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\liblazy_static-db7fe9ccaed48da9.rmeta --extern nokhwa=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libnokhwa-ca6e829cb147036e.rlib --extern num_cpus=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libnum_cpus-1282d9167a80a541.rmeta --extern serde=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libserde-a8492e04f6fbfa52.rmeta --extern webm=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libwebm-599ddbe8268c7352.rmeta --extern winapi=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libwinapi-eb28e2ddc3060707.rmeta -Ctarget-feature=+crt-static -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\machine-uid-12790dc63a9954eb\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\ring-7e26300655559b8b\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\zstd-sys-6e10ab7b3c96dd28\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\mozjpeg-sys-60b224665f83b98f\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\webm-sys-abdc4508ef2c141c\out -L C:\vcpkg\installed\x64-windows-static\lib -L C:\vcpkg\installed\x64-windows-static\lib -L C:\vcpkg\installed\x64-windows-static\lib -L C:\vcpkg\installed\x64-windows-static\lib -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_msvc-0.52.6\lib -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_msvc-0.48.5\lib -L "native=C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\atlmfc\lib\x64" -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsodium-sys-0.2.7\msvc/x64/Release/v142/ -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_msvc-0.42.2\lib -l static=yuv -l static=vpx -l static=aom -l static=yuv --cfg dxgi --check-cfg cfg(dxgi,quartz,x11)`
+       Fresh ringbuf v0.3.3
+       Fresh ctrlc v3.4.4
+       Fresh serde_repr v0.1.19
+       Fresh async-trait v0.1.80
+       Fresh hex v0.4.3
+       Fresh sys-locale v0.3.1
+       Fresh wol-rs v1.0.1
+       Fresh shutdown_hooks v0.1.0
+error[E0609]: no field `g_w` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:66:19
+   |
+66 |                 c.g_w = config.width;
+   |                   ^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `g_h` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:67:19
+   |
+67 |                 c.g_h = config.height;
+   |                   ^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `g_timebase` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:68:19
+   |
+68 |                 c.g_timebase.num = 1;
+   |                   ^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `g_timebase` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:69:19
+   |
+69 |                 c.g_timebase.den = 1000; // Output timestamp precision
+   |                   ^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `rc_undershoot_pct` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:70:19
+   |
+70 |                 c.rc_undershoot_pct = 95;
+   |                   ^^^^^^^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `rc_dropframe_thresh` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:73:19
+   |
+73 |                 c.rc_dropframe_thresh = 25;
+   |                   ^^^^^^^^^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `g_threads` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:74:19
+   |
+74 |                 c.g_threads = codec_thread_num(64) as _;
+   |                   ^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `g_error_resilient` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:75:19
+   |
+75 |                 c.g_error_resilient = VPX_ERROR_RESILIENT_DEFAULT;
+   |                   ^^^^^^^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `rc_end_usage` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:78:19
+   |
+78 |                 c.rc_end_usage = vpx_rc_mode::VPX_CBR;
+   |                   ^^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `kf_min_dist` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:80:23
+   |
+80 |                     c.kf_min_dist = 0;
+   |                       ^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `kf_max_dist` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:81:23
+   |
+81 |                     c.kf_max_dist = keyframe_interval as _;
+   |                       ^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `kf_mode` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:83:23
+   |
+83 |                     c.kf_mode = vpx_kf_mode::VPX_KF_DISABLED; // reduce bandwidth a lot
+   |                       ^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `rc_min_quantizer` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:87:19
+   |
+87 |                 c.rc_min_quantizer = q_min;
+   |                   ^^^^^^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `rc_max_quantizer` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:88:19
+   |
+88 |                 c.rc_max_quantizer = q_max;
+   |                   ^^^^^^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `rc_target_bitrate` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:89:19
+   |
+89 |                 c.rc_target_bitrate =
+   |                   ^^^^^^^^^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `g_profile` on type `vpx_codec_enc_cfg`
+  --> libs\scrap\src\common\vpxcodec.rs:93:19
+   |
+93 |                 c.g_profile = if i444 && config.codec == VpxVideoCodecId::VP9 {
+   |                   ^^^^^^^^^ unknown field
+   |
+   = note: available field is: `_address`
+
+error[E0609]: no field `rc_min_quantizer` on type `vpx_codec_enc_cfg`
+   --> libs\scrap\src\common\vpxcodec.rs:206:11
+    |
+206 |         c.rc_min_quantizer = q_min;
+    |           ^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_max_quantizer` on type `vpx_codec_enc_cfg`
+   --> libs\scrap\src\common\vpxcodec.rs:207:11
+    |
+207 |         c.rc_max_quantizer = q_max;
+    |           ^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_target_bitrate` on type `vpx_codec_enc_cfg`
+   --> libs\scrap\src\common\vpxcodec.rs:208:11
+    |
+208 |         c.rc_target_bitrate = Self::bitrate(self.width as _, self.height as _, ratio);
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_target_bitrate` on type `vpx_codec_enc_cfg`
+   --> libs\scrap\src\common\vpxcodec.rs:215:11
+    |
+215 |         c.rc_target_bitrate
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0560]: struct `vpx_codec_dec_cfg` has no field named `threads`
+   --> libs\scrap\src\common\vpxcodec.rs:452:13
+    |
+452 |             threads: codec_thread_num(64) as _,
+    |             ^^^^^^^ `vpx_codec_dec_cfg` does not have this field
+    |
+    = note: available fields are: `_address`
+
+error[E0560]: struct `vpx_codec_dec_cfg` has no field named `w`
+   --> libs\scrap\src\common\vpxcodec.rs:453:13
+    |
+453 |             w: 0,
+    |             ^ `vpx_codec_dec_cfg` does not have this field
+    |
+    = note: available fields are: `_address`
+
+error[E0560]: struct `vpx_codec_dec_cfg` has no field named `h`
+   --> libs\scrap\src\common\vpxcodec.rs:454:13
+    |
+454 |             h: 0,
+    |             ^ `vpx_codec_dec_cfg` does not have this field
+    |
+    = note: available fields are: `_address`
+
+error[E0609]: no field `g_w` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:101:11
+    |
+101 |         c.g_w = cfg.width;
+    |           ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_h` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:102:11
+    |
+102 |         c.g_h = cfg.height;
+    |           ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_threads` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:103:11
+    |
+103 |         c.g_threads = codec_thread_num(64) as _;
+    |           ^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_timebase` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:104:11
+    |
+104 |         c.g_timebase.num = 1;
+    |           ^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_timebase` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:105:11
+    |
+105 |         c.g_timebase.den = kTimeBaseDen as _;
+    |           ^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_input_bit_depth` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:106:11
+    |
+106 |         c.g_input_bit_depth = kBitDepth;
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `kf_min_dist` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:108:15
+    |
+108 |             c.kf_min_dist = 0;
+    |               ^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `kf_max_dist` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:109:15
+    |
+109 |             c.kf_max_dist = keyframe_interval as _;
+    |               ^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `kf_mode` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:111:15
+    |
+111 |             c.kf_mode = aom_kf_mode::AOM_KF_DISABLED;
+    |               ^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_min_quantizer` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:114:11
+    |
+114 |         c.rc_min_quantizer = q_min;
+    |           ^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_max_quantizer` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:115:11
+    |
+115 |         c.rc_max_quantizer = q_max;
+    |           ^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_target_bitrate` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:116:11
+    |
+116 |         c.rc_target_bitrate = AomEncoder::bitrate(cfg.width as _, cfg.height as _, cfg.quality);
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_undershoot_pct` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:117:11
+    |
+117 |         c.rc_undershoot_pct = 50;
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_overshoot_pct` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:118:11
+    |
+118 |         c.rc_overshoot_pct = 50;
+    |           ^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_buf_initial_sz` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:119:11
+    |
+119 |         c.rc_buf_initial_sz = 600;
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_buf_optimal_sz` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:120:11
+    |
+120 |         c.rc_buf_optimal_sz = 600;
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_buf_sz` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:121:11
+    |
+121 |         c.rc_buf_sz = 1000;
+    |           ^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_usage` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:122:11
+    |
+122 |         c.g_usage = kUsageProfile;
+    |           ^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_error_resilient` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:123:11
+    |
+123 |         c.g_error_resilient = 0;
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_end_usage` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:125:11
+    |
+125 |         c.rc_end_usage = aom_rc_mode::AOM_CBR; // Constant Bit Rate (CBR) mode
+    |           ^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_pass` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:126:11
+    |
+126 |         c.g_pass = aom_enc_pass::AOM_RC_ONE_PASS; // One-pass rate control
+    |           ^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_lag_in_frames` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:127:11
+    |
+127 |         c.g_lag_in_frames = kLagInFrames; // No look ahead when lag equals 0.
+    |           ^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_profile` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:130:11
+    |
+130 |         c.g_profile = if i444 { 1 } else { 0 };
+    |           ^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_w` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:144:60
+    |
+144 |         call_ctl!(ctx, AOME_SET_CPUUSED, get_cpu_speed(cfg.g_w, cfg.g_h));
+    |                                                            ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_h` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:144:69
+    |
+144 |         call_ctl!(ctx, AOME_SET_CPUUSED, get_cpu_speed(cfg.g_w, cfg.g_h));
+    |                                                                     ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_threads` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:157:31
+    |
+157 |         let tile_set = if cfg.g_threads == 4 && cfg.g_w == 640 && (cfg.g_h == 360 || cfg.g_h == 480)
+    |                               ^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_w` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:157:53
+    |
+157 |         let tile_set = if cfg.g_threads == 4 && cfg.g_w == 640 && (cfg.g_h == 360 || cfg.g_h == 480)
+    |                                                     ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_h` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:157:72
+    |
+157 |         let tile_set = if cfg.g_threads == 4 && cfg.g_w == 640 && (cfg.g_h == 360 || cfg.g_h == 480)
+    |                                                                        ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_h` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:157:90
+    |
+157 |         let tile_set = if cfg.g_threads == 4 && cfg.g_w == 640 && (cfg.g_h == 360 || cfg.g_h == 480)
+    |                                                                                          ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_threads` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:164:39
+    |
+164 |         call_ctl!(ctx, tile_set, (cfg.g_threads as f64 * 1.0f64).log2().ceil());
+    |                                       ^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_w` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:174:38
+    |
+174 |             get_super_block_size(cfg.g_w, cfg.g_h, cfg.g_threads)
+    |                                      ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_h` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:174:47
+    |
+174 |             get_super_block_size(cfg.g_w, cfg.g_h, cfg.g_threads)
+    |                                               ^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `g_threads` on type `&common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:174:56
+    |
+174 |             get_super_block_size(cfg.g_w, cfg.g_h, cfg.g_threads)
+    |                                                        ^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_min_quantizer` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:262:11
+    |
+262 |         c.rc_min_quantizer = q_min;
+    |           ^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_max_quantizer` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:263:11
+    |
+263 |         c.rc_max_quantizer = q_max;
+    |           ^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_target_bitrate` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:264:11
+    |
+264 |         c.rc_target_bitrate = Self::bitrate(self.width as _, self.height as _, ratio);
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0609]: no field `rc_target_bitrate` on type `common::aom::aom_codec_enc_cfg`
+   --> libs\scrap\src\common\aom.rs:271:11
+    |
+271 |         c.rc_target_bitrate
+    |           ^^^^^^^^^^^^^^^^^ unknown field
+    |
+    = note: available field is: `_address`
+
+error[E0560]: struct `aom_codec_dec_cfg` has no field named `threads`
+   --> libs\scrap\src\common\aom.rs:449:13
+    |
+449 |             threads: codec_thread_num(64) as _,
+    |             ^^^^^^^ `aom_codec_dec_cfg` does not have this field
+    |
+    = note: available fields are: `_address`
+
+error[E0560]: struct `aom_codec_dec_cfg` has no field named `w`
+   --> libs\scrap\src\common\aom.rs:450:13
+    |
+450 |             w: 0,
+    |             ^ `aom_codec_dec_cfg` does not have this field
+    |
+    = note: available fields are: `_address`
+
+error[E0560]: struct `aom_codec_dec_cfg` has no field named `h`
+   --> libs\scrap\src\common\aom.rs:451:13
+    |
+451 |             h: 0,
+    |             ^ `aom_codec_dec_cfg` does not have this field
+    |
+    = note: available fields are: `_address`
+
+error[E0560]: struct `aom_codec_dec_cfg` has no field named `allow_lowbitdepth`
+   --> libs\scrap\src\common\aom.rs:452:13
+    |
+452 |             allow_lowbitdepth: 1,
+    |             ^^^^^^^^^^^^^^^^^ `aom_codec_dec_cfg` does not have this field
+    |
+    = note: available fields are: `_address`
+
+Some errors have detailed explanations: E0560, E0609.
+For more information about an error, try `rustc --explain E0560`.
+error: could not compile `scrap` (lib) due to 64 previous errors
+
+Caused by:
+  process didn't exit successfully: `set CARGO=C:\Users\kayque.santos\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\cargo.exe&& set CARGO_CRATE_NAME=scrap&& set CARGO_MANIFEST_DIR=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\scrap&& set CARGO_MANIFEST_PATH=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\libs\scrap\Cargo.toml&& set CARGO_PKG_AUTHORS="Ram <quadrupleslap@gmail.com>"&& set CARGO_PKG_DESCRIPTION="Screen capture made easy."&& set CARGO_PKG_HOMEPAGE=""&& set CARGO_PKG_LICENSE=MIT&& set CARGO_PKG_LICENSE_FILE=""&& set CARGO_PKG_NAME=scrap&& set CARGO_PKG_README=README.md&& set CARGO_PKG_REPOSITORY=https://github.com/quadrupleslap/scrap&& set CARGO_PKG_RUST_VERSION=""&& set CARGO_PKG_VERSION=0.5.0&& set CARGO_PKG_VERSION_MAJOR=0&& set CARGO_PKG_VERSION_MINOR=5&& set CARGO_PKG_VERSION_PATCH=0&& set CARGO_PKG_VERSION_PRE=""&& set OUT_DIR=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\scrap-e4421831ee04786c\out&& set PATH="C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps;C:\Program Files\LLVM\bin;C:/Users/kayque.santos/.gemini/antigravity-ide/bin;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\180\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\vcpkg;C:\Program Files\NASM;C:\Users\kayque.santos\.cargo\bin;C:\Users\kayque.santos\AppData\Local\Microsoft\WindowsApps;C:\Users\kayque.santos\AppData\Local\Programs\Antigravity IDE\bin;C:\tools\flutter\bin;C:\Users\kayque.santos\.dotnet\tools;C:\Users\kayque.santos\AppData\Local\Python\bin;C:\Users\kayque.santos\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin"&& C:\Users\kayque.santos\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\rustc.exe --crate-name scrap --edition=2018 libs\scrap\src\lib.rs --error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat --crate-type lib --emit=dep-info,metadata,link -C opt-level=3 -C panic=abort -C codegen-units=1 --cfg "feature=\"dbus\"" --cfg "feature=\"gstreamer\"" --cfg "feature=\"gstreamer-app\"" --cfg "feature=\"gstreamer-video\"" --cfg "feature=\"tracing\"" --cfg "feature=\"wayland\"" --cfg "feature=\"zbus\"" --check-cfg cfg(docsrs,test) --check-cfg "cfg(feature, values(\"dbus\", \"gstreamer\", \"gstreamer-app\", \"gstreamer-video\", \"hwcodec\", \"linux-pkg-config\", \"mediacodec\", \"ndk\", \"tracing\", \"vram\", \"wayland\", \"zbus\"))" -C metadata=53524871e7542273 -C extra-filename=-8ae690bb98ff54bb -C rpath --out-dir C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps -C strip=symbols -L dependency=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps --extern cfg_if=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libcfg_if-f8ce2c14c575dbc3.rmeta --extern hbb_common=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libhbb_common-6d462cbd90a55167.rmeta --extern lazy_static=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\liblazy_static-db7fe9ccaed48da9.rmeta --extern nokhwa=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libnokhwa-ca6e829cb147036e.rlib --extern num_cpus=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libnum_cpus-1282d9167a80a541.rmeta --extern serde=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libserde-a8492e04f6fbfa52.rmeta --extern webm=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libwebm-599ddbe8268c7352.rmeta --extern winapi=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\deps\libwinapi-eb28e2ddc3060707.rmeta -Ctarget-feature=+crt-static -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\machine-uid-12790dc63a9954eb\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\ring-7e26300655559b8b\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\zstd-sys-6e10ab7b3c96dd28\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\mozjpeg-sys-60b224665f83b98f\out -L native=C:\Users\kayque.santos\Downloads\rustdesk-master\rustdesk-master\target\release\build\webm-sys-abdc4508ef2c141c\out -L C:\vcpkg\installed\x64-windows-static\lib -L C:\vcpkg\installed\x64-windows-static\lib -L C:\vcpkg\installed\x64-windows-static\lib -L C:\vcpkg\installed\x64-windows-static\lib -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_msvc-0.52.6\lib -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_msvc-0.48.5\lib -L "native=C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\atlmfc\lib\x64" -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsodium-sys-0.2.7\msvc/x64/Release/v142/ -L native=C:\Users\kayque.santos\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows_x86_64_msvc-0.42.2\lib -l static=yuv -l static=vpx -l static=aom -l static=yuv --cfg dxgi --check-cfg cfg(dxgi,quartz,x11)` (exit code: 1)
