@@ -860,12 +860,15 @@ dependencies = [
  "itertools 0.12.1",
  "lazy_static",
  "lazycell",
+ "log",
+ "prettyplease",
  "proc-macro2 1.0.93",
  "quote 1.0.36",
  "regex",
  "rustc-hash 1.1.0",
  "shlex",
  "syn 2.0.98",
+ "which",
 ]
 
 [[package]]
@@ -878,8 +881,6 @@ dependencies = [
  "cexpr",
  "clang-sys",
  "itertools 0.12.1",
- "log",
- "prettyplease",
  "proc-macro2 1.0.93",
  "quote 1.0.36",
  "regex",
