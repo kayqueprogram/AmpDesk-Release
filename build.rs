@@ -4,7 +4,6 @@ fn build_windows() {
     let file2 = "src/platform/windows_delete_test_cert.cc";
     cc::Build::new().file(file).file(file2).compile("windows");
     println!("cargo:rustc-link-lib=WtsApi32");
-    println!("cargo:rustc-link-lib=static=swresample");
     println!("cargo:rustc-link-lib=mfplat");
     println!("cargo:rustc-link-lib=mfuuid");
     println!("cargo:rustc-link-lib=strmiids");
