@@ -1554,7 +1554,7 @@ jobs:
             export DEB_ARCH=${{ matrix.job.deb_arch }}
             python3 ./build.py --flutter --skip-cargo
             for name in rustdesk*??.deb; do
-              newname="ampdesk${name#rustdesk}"
+              newname="${name/rustdesk/ampdesk}"
               mv "$name" "${newname%%.deb}-${{ matrix.job.arch }}.deb"
             done
 
@@ -1569,7 +1569,7 @@ jobs:
             HBB=`pwd` rpmbuild ./res/rpm-flutter.spec -bb
             pushd ~/rpmbuild/RPMS/${{ matrix.job.arch }}
             for name in rustdesk*??.rpm; do
-                newname="ampdesk${name#rustdesk}"
+                newname="${name/rustdesk/ampdesk}"
                 mv "$name" /workspace/"${newname%%.rpm}.rpm"
             done
 
@@ -1584,7 +1584,7 @@ jobs:
             HBB=`pwd` rpmbuild ./res/rpm-flutter-suse.spec -bb
             pushd ~/rpmbuild/RPMS/${{ matrix.job.arch }}
             for name in rustdesk*??.rpm; do
-                newname="ampdesk${name#rustdesk}"
+                newname="${name/rustdesk/ampdesk}"
                 mv "$name" /workspace/"${newname%%.rpm}-suse.rpm"
             done
 
@@ -1839,9 +1839,10 @@ jobs:
       - name: Rename ampdesk
         shell: bash
         run: |
-          for name in rustdesk*??.deb; do
+          for name in *.deb; do
               # use cp to duplicate deb files to fit other packages.
-              cp "$name" "${name%%.deb}-${{ matrix.job.arch }}-sciter.deb"
+              newname="${name/rustdesk/ampdesk}"
+              cp "$name" "${newname%%.deb}-${{ matrix.job.arch }}-sciter.deb"
           done
 
       - name: Publish debian package
