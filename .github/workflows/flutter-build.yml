@@ -10,6 +10,9 @@ on:
         type: string
         default: "nightly"
 
+permissions:
+  contents: write
+
 # NOTE: F-Droid builder script 'flutter/build_fdroid.sh' reads environment
 # variables from this workflow!
 #
@@ -1828,7 +1831,7 @@ jobs:
             cargo build --locked --features inline${{ matrix.job.extra_features }} --release --bins --jobs 1
             # make debian package
             mkdir -p ./Release
-            mv ./target/release/ampdesk ./Release/rustdesk
+            mv ./target/release/ampdesk ./Release/ampdesk
             wget -O ./Release/libsciter-gtk.so https://github.com/c-smile/sciter-sdk/raw/master/bin.lnx/${{ matrix.job.sciter_arch }}/libsciter-gtk.so
             export DEB_ARCH=${{ matrix.job.deb_arch }}
             python3 ./build.py --package ./Release
@@ -1882,7 +1885,7 @@ jobs:
 
       - name: Rename Binary
         run: |
-          mv ampdesk-${{ env.VERSION }}-${{ matrix.job.arch }}.deb appimage/rustdesk.deb
+          mv ampdesk-${{ env.VERSION }}-${{ matrix.job.arch }}.deb appimage/ampdesk.deb
 
       - name: Build appimage package
         shell: bash
@@ -1955,7 +1958,7 @@ jobs:
 
       - name: Rename Binary
         run: |
-          mv ampdesk-${{ env.VERSION }}-${{ matrix.job.arch }}${{ matrix.job.suffix }}.deb flatpak/rustdesk.deb
+          mv ampdesk-${{ env.VERSION }}-${{ matrix.job.arch }}${{ matrix.job.suffix }}.deb flatpak/ampdesk.deb
 
       - uses: rustdesk-org/run-on-arch-action@d3fcfbb632b84cf7f6bc772bfaaa2c2f4f8789a8 # no release tag; commit 2026-05-26
         name: Build ampdesk flatpak package for ${{ matrix.job.arch }}
