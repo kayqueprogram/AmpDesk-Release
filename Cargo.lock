@@ -7603,7 +7603,7 @@ name = "scrap"
 version = "0.5.0"
 dependencies = [
  "android_logger",
- "bindgen 0.71.1",
+ "bindgen 0.69.4",
  "block",
  "cfg-if 1.0.0",
  "dbus",
