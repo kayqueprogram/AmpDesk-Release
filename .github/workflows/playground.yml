@@ -188,7 +188,7 @@ jobs:
 
       - name: Build ampdesk
         run: |
-          ./build.py --flutter ${{ matrix.job.extra-build-args }}
+          python3 ./build.py --flutter ${{ matrix.job.extra-build-args }}
 
       - name: create unsigned dmg
         run: |
@@ -326,10 +326,10 @@ jobs:
         run: |
           case ${{ matrix.job.target }} in
             aarch64-linux-android)
-              ./flutter/build_android_deps.sh arm64-v8a
+              bash ./flutter/build_android_deps.sh arm64-v8a
             ;;
             armv7-linux-androideabi)
-              ./flutter/build_android_deps.sh armeabi-v7a
+              bash ./flutter/build_android_deps.sh armeabi-v7a
             ;;
           esac
         shell: bash
@@ -352,12 +352,12 @@ jobs:
           cargo install cargo-ndk --version ${{ env.CARGO_NDK_VERSION }} --locked
           case ${{ matrix.job.target }} in
             aarch64-linux-android)
-              ./flutter/ndk_arm64.sh
+              bash ./flutter/ndk_arm64.sh
               mkdir -p ./flutter/android/app/src/main/jniLibs/arm64-v8a
               cp ./target/${{ matrix.job.target }}/release/liblibrustdesk.so ./flutter/android/app/src/main/jniLibs/arm64-v8a/librustdesk.so
             ;;
             armv7-linux-androideabi)
-              ./flutter/ndk_arm.sh
+              bash ./flutter/ndk_arm.sh
               mkdir -p ./flutter/android/app/src/main/jniLibs/armeabi-v7a
               cp ./target/${{ matrix.job.target }}/release/liblibrustdesk.so ./flutter/android/app/src/main/jniLibs/armeabi-v7a/librustdesk.so
             ;;
